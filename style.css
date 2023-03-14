@@ -1,0 +1,223 @@
+body {
+  background-color: #dee2e6;
+}
+.div1 {
+  display: flex;
+  gap: 300px;
+}
+nav {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin-left: 10%;
+}
+.div2 {
+  display: flex;
+}
+.div3 h1 {
+  font-size: 80px;
+  font-weight: 300;
+}
+.span1 {
+  color: #fa5252;
+}
+.btn1 {
+  background-image: linear-gradient(to right, #f783ac, rgb(188, 121, 121));
+  padding: 9px;
+  margin: 1%;
+}
+.icon2 {
+  position: relative;
+  top: 10px;
+  margin-left: 2%;
+  background-image: linear-gradient(to right, #f783ac, rgb(188, 121, 121));
+  size: 30px;
+  border-radius: 22px;
+}
+.bestcollection h3 {
+  text-align: center;
+  font-size: 40px;
+}
+.Adidas1 {
+  display: flex;
+  box-shadow: 0 10px 30px black;
+  width: 10px;
+}
+.Adidas2 {
+  background-image: linear-gradient(#00eeff, #8c00ff);
+  border-radius: 20px;
+}
+.nike1 {
+  display: flex;
+}
+.nike2 {
+  background-image: linear-gradient(to bottom,red,green);
+  border-radius: 20px;
+  /* -webkit-transform: rotate(30deg);  */
+}
+.puma1 {
+  display: flex;
+}
+.puma2 {
+  background-image: linear-gradient(#00eeff, #8c00ff);
+  border-radius: 20px;
+}
+.Collection {
+  display: flex;
+  gap: 20px;
+}
+.btn2 {
+  background-color: #ff6b6b;
+}
+.sct3 ul {
+  display: flex;
+  list-style: none;
+  font-size: 35px;
+  font-weight: 250;
+  gap: 50px;
+}
+.sct h3 {
+  text-align: center;
+  font-weight: 100;
+  font-size: 50px;
+}
+.li {
+  color: #f06595;
+}
+.nik {
+  position: absolute;
+}
+.mwk {
+  display: flex;
+  gap: 30px;
+  margin: 8%;
+  /* margin-left: 7%; */
+}
+.mwk2 {
+  display: flex;
+  gap: 30px;
+  margin: 8%;
+
+}
+.btn4 {
+  border: solid;
+  color: #f783ac;
+  padding: 15px;
+  text-align: center;
+  margin-left: 46%;
+}
+.newarrivals {
+  display: flex;
+  gap: 40px;
+}
+.whitel {
+  display: flex;
+}
+.blackl {
+  display: flex;
+}
+.specialoff {
+  color: #f783ac;
+}
+.btn5 {
+  background-color: #f783ac;
+}
+.btn6 {
+  color: #f783ac;
+  border-color: #f783ac;
+}
+.div10 {
+  background-color: #faa2c1;
+  padding: 90px;
+  margin: 7%;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+.btn7 {
+  background-image: linear-gradient(to left, #faa2c1, #ff6b6b);
+  padding: 10px;
+}
+footer {
+  background-color: #fa5252;
+}
+.foot {
+  display: flex;
+  gap: 70px;
+  color: white;
+  padding: 30px;
+}
+.footer1 li {
+  list-style: none;
+  text-decoration: none;
+}
+.li2 {
+  padding: 8px;
+}
+.highcut{
+  display: flex;
+  margin: 4%;
+  gap: 20px;
+}
+.sctabout{
+  text-align: center;
+}
+.more{
+  background-color: #830c0cbc;
+  padding: 3px 25px;
+  border-radius: 5px;
+  margin-right: 50%;
+}
+.vision{
+  display: flex;
+  margin: 4%;
+  gap: 20px;
+}
+.approach{
+  display: flex;
+  margin: 4%;
+  gap: 20px;
+}
+/* .input{
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+} */
+.adidas11{
+  background-color:white;
+}
+.rights{
+  color: white;
+  text-align: center;
+}
+.spanrate{
+  float: right;
+}
+.bx{
+  color: rgba(255, 255, 0, 0.548);
+}
+.bag{
+  float: right;
+}
+.imageshoe{
+  display: flex;
+}
+.imageshoe1{
+  display: flex;
+}
+.order1{
+  padding: 20px
+}
+.txt2{
+  margin-left: 5%;
+}
+.txt3{
+  margin-left: 11%;
+}
+.hmns{
+  padding: 40px 0px 20px;
+}
+.Similar{
+  text-align: center;
+}
