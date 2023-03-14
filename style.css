@@ -221,3 +221,28 @@ footer {
 .Similar{
   text-align: center;
 }
+.min{
+  color: #f06595;
+}
+.mi{
+  color: #f06595;
+  margin-left: 5%;
+}
+
+@media (max-width: 870px){
+  body{
+    font-size: 20px;
+    /* background-color: #f783ac; */
+  }
+  .foot{
+    padding: 5px;
+    gap: 5px;
+  }
+  .mwk2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .imageshoe{
+    flex-direction: column;
+  }
+}
