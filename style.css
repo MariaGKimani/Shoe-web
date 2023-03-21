@@ -1,16 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500&family=Poppins:ital,wght@0,400;0,500;1,400&family=Roboto:ital,wght@0,400;0,500;1,400;1,700&display=swap');
+
 body {
   background-color: #dee2e6;
 }
-.div1 {
+.div1 ul{
   display: flex;
-  gap: 300px;
+  list-style: none;
+  gap: 30px;
 }
-nav {
+nav ul{
+  display: flex;
+}
+li:nth-child(5){
+  margin-left: 40%;
+}
+.en{
+  border: none;
+  
+}
+
+/* nav {
   list-style: none;
   display: flex;
   gap: 30px;
   margin-left: 10%;
-}
+} */
 .div2 {
   display: flex;
 }
@@ -134,6 +151,12 @@ nav {
   text-align: center;
   font-size: 30px;
 }
+.bt{
+  text-decoration: none;
+  color: #dee2e6;
+  font-weight: 100;
+  font-size: 18px;
+}
 .btn7 {
   background-image: linear-gradient(to left, #faa2c1, #ff6b6b);
   padding: 10px;
@@ -164,9 +187,16 @@ footer {
 }
 .more{
   background-color: #830c0cbc;
-  padding: 3px 25px;
+  padding: 5px 25px;
   border-radius: 5px;
   margin-right: 50%;
+  
+}
+.mor{
+  text-decoration: none;
+  color: #dee2e6;
+  font-size: 17px;
+  font-weight: 100;
 }
 .vision{
   display: flex;
@@ -227,6 +257,44 @@ footer {
 .mi{
   color: #f06595;
   margin-left: 5%;
+}
+.h1questions{
+  font-size: 45px;
+  text-align: center;
+}
+.maincontact{
+  background-color: #e9ecef;
+}
+.lastbtn{
+  padding: 10px 40px;
+  border-radius: 12%;
+  background-image: linear-gradient(to right,#b96d6d, #fd7e14 );
+}
+.lorem1{
+
+}
+.imgface{
+  border-radius: 80%;
+  
+}
+.input{
+  display: flex;
+  background-color: white;
+  border-radius: 20px;
+}
+.ptext1{
+ 
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  line-height: 155%;
+}
+.ptext{
+  
+font-family: 'Poppins', sans-serif;
+/* font-family: 'Roboto', sans-serif; */
+   /* font-family: 'Inconsolata', monospace; */
+   font-weight: 300;
+  line-height: 155%;
 }
 
 @media (max-width: 870px){
