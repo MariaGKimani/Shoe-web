@@ -306,11 +306,11 @@ font-family: 'Poppins', sans-serif;
   padding-top: 50px;
   padding-bottom: 50px;
 }
-.questions{
+.question{
   text-align: center;
   margin-bottom: 5%;
 }
-.questions h1{
+.question h1{
   text-align: center;
   padding: 1em 0 1em 0;
   font-size: 3em;
@@ -364,7 +364,7 @@ font-family: 'Poppins', sans-serif;
   font-size: 1.2em;
   font-weight: bold;
 }
-.questions textarea{
+.question textarea{
   border: none;
   border-radius: 1em;
   padding: 1.6em;
@@ -373,7 +373,7 @@ font-family: 'Poppins', sans-serif;
   width: 32%;
   padding-bottom: 10em;
 }
-.questions button{
+.question button{
   margin-top: 1em;
   padding: 1em 4em 1em 4em;
   background-image: linear-gradient(to right, #ff517da9, #ff5926a9);
@@ -383,7 +383,7 @@ font-family: 'Poppins', sans-serif;
   font-size: .9em;
   font-weight: bold;
 }
-.questions button:hover{
+.question button:hover{
   background-image: linear-gradient(to right, #FF517D, #FF5926);
 }
 
@@ -393,8 +393,8 @@ font-family: 'Poppins', sans-serif;
     /* background-color: #f783ac; */
   }
   .foot{
-    padding: 5px;
-    gap: 5px;
+    padding: 10px;
+    gap: 15px;
   }
   .div2 {
     display: flex;
@@ -448,7 +448,7 @@ font-family: 'Poppins', sans-serif;
   .search input {
     width: 45%;
 }
-.questions textarea{
+.question textarea{
   width: 40%;
 }
 }
@@ -456,7 +456,7 @@ font-family: 'Poppins', sans-serif;
   .search input {
     width: 80%;
 }
-.questions textarea{
+.question textarea{
   width: 70%;
 }
 }
